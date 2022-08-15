@@ -7,3 +7,4 @@ lol okay one more line and thats it
 okay bye
 two more lines and thats it 
 okay bye
+we are adding this new line from the GUI
